@@ -27,5 +27,4 @@ Ajout d’un étudiant + réponse JSON
 ## DEMO
 
 
-https://github.com/user-attachments/assets/f83fd3a2-fed3-4183-9d52-388ecbd1393f
 
