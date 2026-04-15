@@ -28,3 +28,9 @@ Ajout d’un étudiant + réponse JSON
 
 
 
+
+https://github.com/user-attachments/assets/d695db42-28b4-4e06-8453-a5424be2a2a1
+
+
+
+
