@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab9" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_edu</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_edu</item>
+        <item name="colorSecondary">@color/accent_edu</item>
+        <item name="android:windowBackground">@color/bg_edu</item>
+    </style>
+
+    <style name="Theme.Lab9" parent="Base.Theme.Lab9" />
+</resources>
